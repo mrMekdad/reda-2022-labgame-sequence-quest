@@ -1,0 +1,10 @@
+{
+  "name": "reda-2022-labgame-sequence-quest",
+  "version": "0.1.0",
+  "description": "Light educational game about assembling sequence fragments under lab constraints.",
+  "author": "Red@",
+  "license": "MIT",
+  "scripts": {
+    "test": "node tests/smoke.test.js"
+  }
+}
