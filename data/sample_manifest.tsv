@@ -1,3 +1,4 @@
 sample	status	group
 labgame-sequence-quest-01	ready	control
 labgame-sequence-quest-02	review	case
+labgame-sequence-quest-03	queued	validation
